@@ -1,5 +1,5 @@
 {
-  "name": "awesomeproject",
+  "name": "merijamin",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@viro-community/react-viro": "^2.23.0",
-    "expo": "^49.0.0",
+    "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.8"
